@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="99" version="2.0">
+<workbench progressCount="108" version="2.0">
 <workbenchAdvisor/>
-<window height="1088" maximized="true" width="937" x="913" y="0">
+<window height="1088" maximized="true" width="937" x="905" y="64">
 <fastViewData fastViewLocation="1024">
 <orientation position="512" view="com.ibm.xtools.mde.guidance"/>
 <orientation position="512" view="com.ibm.ccl.erf.ui.views.reportexplorer"/>
@@ -37,8 +37,6 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
 </presentation>
 </folder>
 </info>
@@ -141,7 +139,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer" ratio="0.3623348" ratioLeft="329" ratioRight="579" relationship="2" relative="projectExplorerArea"/>
+<info part="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer" ratio="0.27908248" ratioLeft="511" ratioRight="1320" relationship="2" relative="projectExplorerArea"/>
 <info folder="true" part="underEditorArea" ratio="0.6565875" ratioLeft="608" ratioRight="318" relationship="4" relative="com.ibm.xtools.reqpro.ui.internal.views.explorer.RequirementExplorer">
 <folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Propiedades"/>
@@ -185,6 +183,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Modelo de Casos de Uso.emx" tooltip="NanifarfallaModelo/Modelo de Casos de Uso.emx">
+<persistable path="/NanifarfallaModelo/Modelo de Casos de Uso.emx"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Modelo de Casos de uso de Negocio.emx" tooltip="NanifarfallaModelo/Modelo de Casos de uso de Negocio.emx">
+<persistable path="/NanifarfallaModelo/Modelo de Casos de uso de Negocio.emx"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Modelo de caso de uso.emx" tooltip="Nanifarfalla/Modelo de caso de uso.emx">
 <persistable path="/Nanifarfalla/Modelo de caso de uso.emx"/>
 </file>

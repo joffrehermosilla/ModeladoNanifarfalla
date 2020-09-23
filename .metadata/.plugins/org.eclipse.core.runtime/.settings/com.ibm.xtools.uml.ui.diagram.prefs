@@ -1,4 +1,4 @@
-#Tue Sep 15 11:19:58 COT 2020
+#Wed Sep 16 22:08:27 COT 2020
 Themes/Khaki/com.ibm.xtools.uml.actor=Khaki 4
 Themes/Predeterminado/com.ibm.xtools.uml.clearAssociationAction=Azul claro con borde azul
 Themes/Modelado\ UML\ cl\u00e1sico/com.ibm.xtools.uml.addStructuralFeatureValueAction=Gradiente gris-blanco
@@ -34,6 +34,7 @@ EdgeApps/Conexi\u00f3n\ roja/notation.LineStyle.lineColor=3342489
 Themes/Olive/com.ibm.xtools.uml.asynchCallMessage=Brown conn
 Themes/Brown/com.ibm.xtools.uml.submachineState=Brown 5
 Themes/Khaki/com.ibm.xtools.uml.compositeState=Khaki 6
+Global.promptOnDelFromDiagram=always
 Themes/Brown/com.ibm.xtools.uml.activityPartition=Brown 4
 Themes/Modelado\ UML\ cl\u00e1sico/com.ibm.xtools.uml.decisionNode=Gradiente gris-blanco
 Themes/Khaki/com.ibm.xtools.uml.forkNode=Khaki 5
@@ -320,8 +321,8 @@ Themes/Khaki/com.ibm.xtools.uml.orthogonalState=Khaki 6
 Themes/Khaki/com.ibm.xtools.uml.activity=Khaki 4
 Themes/Predeterminado/com.ibm.xtools.uml.createLinkObjectAction=Azul claro con borde azul
 ShapeApps/Green\ 1/notation.LineStyle.lineColor=1942301
-Themes/Predeterminado\ con\ formas\ redondeadas/org.eclipse.gmf.runtime.diagram.ui.geoshapes.cylinder=Amarillo con borde gris
 Themes/Predeterminado/com.ibm.xtools.uml.pseudostateJoin=Azul medio
+Themes/Predeterminado\ con\ formas\ redondeadas/org.eclipse.gmf.runtime.diagram.ui.geoshapes.cylinder=Amarillo con borde gris
 ShapeApps/Gold\ 3/notation.FillStyle.fillColor=10204342
 Themes/Predeterminado\ con\ formas\ redondeadas/Shape=Redondeado predeterminado
 Themes/Green/com.ibm.xtools.uml.component=Green 3
@@ -358,6 +359,7 @@ Themes/Brown/com.ibm.xtools.uml.orthogonalState=Brown 5
 Themes/Khaki/com.ibm.xtools.uml.pseudostateChoicePoint=Khaki 5
 Themes/Predeterminado/com.ibm.xtools.uml.activityPartition=Negrita en blanco con borde azul 
 Themes/Modelado\ UML\ cl\u00e1sico/com.ibm.xtools.uml.mergeNode=Gradiente gris-blanco
+Global.promptOnDelFromModel=always
 Themes/Olive/org.eclipse.gmf.runtime.diagram.ui.presentation.note=Amarillo con borde gris
 Themes/Modelado\ UML\ cl\u00e1sico/com.ibm.xtools.uml.clearAssociationAction=Gradiente gris-blanco
 ShapeApps/Khaki\ 3/notation.FillStyle.fillColor=14217205
